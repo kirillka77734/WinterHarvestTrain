@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"Props/metalcomputerpanel001a"
+	"$selfillum"		"1"
+	"%keywords"		"borealis"
+	"$model"		"1"
+}

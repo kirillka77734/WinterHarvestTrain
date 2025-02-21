@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"Metal/metalfloor001a"
+	"$ssbump"		"1"
+	"%keywords"		"Left4Dead, River, Port"
+	"$model"		"1"
+}

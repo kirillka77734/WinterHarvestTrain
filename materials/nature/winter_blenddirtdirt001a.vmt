@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+	$basetexture "nature/winter_blenddirtdirt001a"
+	$surfaceprop Snow
+}

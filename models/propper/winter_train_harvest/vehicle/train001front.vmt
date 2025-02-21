@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"vehicle/train001front"
+	"$envmaptint"		"[ .2 .2 .2]"
+	"$envmap"		"env_cubemap"
+	"$detail"		"detail\metal_detail_01"
+	"$detailscale"		"14.345000"
+	"$detailblendfactor"		"0.600000"
+	"$detailblendmode"		"0"
+	"$model"		"1"
+}

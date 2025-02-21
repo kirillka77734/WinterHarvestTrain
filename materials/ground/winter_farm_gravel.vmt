@@ -1,0 +1,7 @@
+WorldVertexTransition
+{
+$basetexture "ground/winter_farm_gravel_01"
+$basetexture2 "ground/farm_gravel_01a"
+$surfaceprop dirt
+$surfaceprop2 dirt
+}

@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"nature/Trees_card02"
+	"$alphatest"		"1"
+	"$AlphaTestReference"		"0.450000"
+	"$AllowAlphaToCoverage"		"1"
+	"$model"		"1"
+}

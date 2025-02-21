@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "vehicle/train001roof"
+	"$bumpmap" "vehicle/train001roof_no"
+	"$surfaceprop" "metal"
+ 	"$envmaptint" "[ .2 .2 .2]"
+	"$envmap" "env_cubemap"
+
+                   "$detail" "detail\metal_detail_01"
+	"$detailscale" "14.345"
+	"$detailblendfactor" .6
+	"$detailblendmode" 0
+}

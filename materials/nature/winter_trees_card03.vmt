@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture "nature/winter_trees_card03"
+$AlphaTest 1
+$AlphaTestReference ".45"
+$AllowAlphaToCoverage 1
+}

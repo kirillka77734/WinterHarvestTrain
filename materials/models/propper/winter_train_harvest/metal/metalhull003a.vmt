@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"Metal/metalhull003a"
+	"$detail"		"detail\dt_metal2"
+	"$detailscale"		"6"
+	"$detailblendfactor"		"0.800000"
+	"$detailblendmode"		"0"
+	"$model"		"1"
+}

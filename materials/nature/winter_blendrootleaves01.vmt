@@ -1,0 +1,11 @@
+WorldVertexTransition
+{
+$basetexture "nature/winter_maple_leaves01"
+$basetexture2 "nature/winter_roots01"
+$bumpmap "Nature/winter_roots01-ssbump"
+$ssbump 1
+
+"%detailtype" rural_dirt_leaves02
+"$surfaceprop" "snow"
+"$surfaceprop2" "snow"
+}

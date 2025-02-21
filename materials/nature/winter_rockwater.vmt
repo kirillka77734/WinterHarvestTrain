@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+	$basetexture "nature/winter_rockwater"
+	$surfaceprop Rock
+}

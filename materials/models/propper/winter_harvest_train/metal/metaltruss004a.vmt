@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"Metal/metaltruss004a"
+	"$alphatest"		"1"
+	"%compilepassbullets"		"1"
+	"$model"		"1"
+}

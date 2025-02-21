@@ -1,0 +1,16 @@
+WorldVertexTransition
+{
+$basetexture "nature/winter_maple_leaves01"
+$basetexture2 "nature/winter_dirt02"
+
+
+"%detailtype" rural_dirt_leaves02
+
+
+
+
+
+
+"$surfaceprop" "snow"
+$surfaceprop2 dirt
+}
